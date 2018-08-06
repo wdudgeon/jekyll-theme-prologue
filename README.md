@@ -1,4 +1,6 @@
 # Prologue - Jekyll Theme
+**Demo**: https://wdudgeon.github.io/jekyll-theme-prologue/
+
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
 
