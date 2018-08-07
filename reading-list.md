@@ -1,8 +1,7 @@
 ---
-title: <a href="https://wdudgeon.github.io/jekyll-theme-prologue/assets/images/WyattDudgeonResume(7_27_18).pdf">Resume</a>
-subtitle: 
+title: Resume
+subtitle: a list of books I read
 layout: "page"
 icon: fa-book
 order: 3
 ---
-
