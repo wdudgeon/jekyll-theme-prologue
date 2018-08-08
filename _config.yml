@@ -37,7 +37,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   HTML5 UP's sleek, responsive site template Prologue.
 author: Wyatt Dudgeon
 email: wdudgeon@umich.edu
-avatar: assets/images/Headshot.jpeg	
+avatar: assets/images/Headshot (circle).png	
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
@@ -48,10 +48,10 @@ facebook_url:
 github_url:
 googleplus_url:
 instagram_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/wyattdudgeon/
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url:https://twitter.com/wyattdudge
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
