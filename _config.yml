@@ -40,7 +40,7 @@ email: wdudgeon@umich.edu
 avatar: assets/images/Headshot (circle).png	
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "http://www.wyattdudgeon.com/" # the base hostname & protocol for your site
 
 # Social settings
